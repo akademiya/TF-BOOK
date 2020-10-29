@@ -1,0 +1,78 @@
+/* header */
+.header {
+    width: 100%;
+    height: 1054px;
+    position: relative;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1000;
+    padding-top: 30px;
+    background: #EAEAEA;
+}
+.menu {
+    display: flex;
+    margin: 0 45px;
+}
+}
+.logo {
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0 45px;
+    float: left;
+}
+.top-menu {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 55em;
+}
+.top-menu a{
+    padding: 0 40px;
+    color: #2c2c2c;
+}
+.menu-link {
+    color: #565656;
+    text-decoration: none;
+    transition: all .3s ease 0s;
+    display: inline-block;
+    vertical-align: top;
+}
+.menu-link:hover {
+    transition: all .3s ease 0s;
+    color: #f8b045;
+}
+.soc {
+    float: right;
+    display: flex;
+}
+.soc a {
+    margin: 0 10px;
+}
+.soc a:hover {
+    transition: all .3s ease 0s;
+}
+.fb {
+    display: block;
+    width: 32px;
+    height: 32px;
+    background: url(icons/soc-sprite.png) -4px -7px no-repeat;
+}
+.fb:hover {
+    display: block;
+    width: 32px;
+    height: 32px;
+    background: url(icons/soc-hover.png) -4px -7px no-repeat;
+}
+.ins {
+    display: block;
+    width: 32px;
+    height: 32px;
+    background: url(icons/soc-sprite.png) -85px -8px no-repeat;
+}
+.ins:hover {
+    display: block;
+    width: 32px;
+    height: 32px;
+    background: url(icons/soc-hover.png) -85px -8px no-repeat;
+}
