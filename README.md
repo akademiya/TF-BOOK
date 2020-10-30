@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="ru">
     <head>
         <meta charset="UTF-8">
@@ -12,24 +10,11 @@
         <header class="header">
             <div class="menu">
                 <div class="logo">TF BOOK</div>
-<!--
-                <nav class="top-menu">
-                    <a class="menu-link" href="#">Книга</a>
-                    <a class="menu-link" href="#">Привью</a>
-                    <a class="menu-link" href="#">Автор</a>
-                    <a class="menu-link" href="#">Отзывы</a>
-                    <a class="menu-link" href="#">Квест</a>
-                    <a class="menu-link" href="#">Заказать</a>
-                </nav>                
--->
                 <div class="soc">
                     <a class="fb"></a>
                     <a class="ins"></a>
                 </div>                     
             </div>
-            <section class="header-content">
-                <div class=""></div>
-            </section>
         </header>
         <section class="content">
             <div class="banner-text">
