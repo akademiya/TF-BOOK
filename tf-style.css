@@ -43,3 +43,8 @@
     height: 32px;
     background: url(icons/ic.png) -85px -8px no-repeat;
 }
+
+
+.banner-text {
+    display: flex;
+}
