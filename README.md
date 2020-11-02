@@ -10,6 +10,7 @@
         <header class="header">
             <div class="menu">
                 <div class="logo">TF BOOK</div>
+                <div class="empty">&nbsp;</div>
                 <div class="soc">
                     <a class="fb"></a>
                     <a class="ins"></a>
