@@ -10,10 +10,13 @@
 .empty {
     width: 100%;
 }
-.logo {
+.email {
     position: absolute;
     font-size: 24px;
     font-weight: 700;
+}
+.email:hover {
+    color: #FCB152;
 }
 .soc {
     float: right;
@@ -29,23 +32,14 @@
     display: block;
     width: 32px;
     height: 32px;
-    background: url(icons/soc-sprite.png) -4px -7px no-repeat;
+    background: url(icons/ic.png) -4px -7px no-repeat;
 }
 .fb:hover {
-    display: block;
-    width: 32px;
-    height: 32px;
-    background: url(icons/soc-hover.png) -4px -7px no-repeat;
+    transition: all .3s ease 0s;
 }
 .ins {
     display: block;
     width: 32px;
     height: 32px;
-    background: url(icons/soc-sprite.png) -85px -8px no-repeat;
-}
-.ins:hover {
-    display: block;
-    width: 32px;
-    height: 32px;
-    background: url(icons/soc-hover.png) -85px -8px no-repeat;
+    background: url(icons/ic.png) -85px -8px no-repeat;
 }
