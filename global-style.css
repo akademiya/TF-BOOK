@@ -19,3 +19,13 @@ h1, h2, h3, h4, h5, h6 {
 h1 {font-size: 34px;}
 h2 {font-size: 30px;}
 h3 {font-size: 28px;}
+
+.container-lg {
+    max-width: none;
+    margin-right: unset;
+    margin-left: unset;
+}
+.px-3 {
+    padding-right: unset;
+    padding-left: unset;
+}
