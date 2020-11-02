@@ -12,32 +12,8 @@
 }
 .logo {
     position: absolute;
-    margin-top: 5px;
     font-size: 24px;
     font-weight: 700;
-    margin: 0 45px;
-    float: left;
-}
-.top-menu {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    width: 55em;
-}
-.top-menu a{
-    padding: 0 40px;
-    color: #2c2c2c;
-}
-.menu-link {
-    color: #565656;
-    text-decoration: none;
-    transition: all .3s ease 0s;
-    display: inline-block;
-    vertical-align: top;
-}
-.menu-link:hover {
-    transition: all .3s ease 0s;
-    color: #f8b045;
 }
 .soc {
     float: right;
