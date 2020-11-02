@@ -9,7 +9,7 @@
     <body>
         <header class="header">
             <div class="menu">
-                <div class="logo">TF BOOK</div>
+                <div class="logo">vadym.adv@gmail.com</div>
                 <div class="empty">&nbsp;</div>
                 <div class="soc">
                     <a class="fb"></a>
