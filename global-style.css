@@ -29,3 +29,7 @@ h3 {font-size: 28px;}
     padding-right: unset !important;
     padding-left: unset !important;
 }
+.markdown-body h1 {
+    padding: 0;
+    border-bottom: none;
+}
