@@ -12,8 +12,8 @@
                 <div class="email">vadym.adv@gmail.com</div>
                 <div class="empty">&nbsp;</div>
                 <div class="soc">
-                    <a class="fb"></a>
-                    <a class="ins"></a>
+                    <a class="fb" href="https://www.facebook.com/FatherTrueLife" target="_blank"></a>
+                    <a class="ins" target="_blank"></a>
                 </div>                     
             </div>
         </header>
