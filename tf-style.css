@@ -72,15 +72,11 @@
     float: right;
     padding: 15px 45px;
     margin-top: 55px;
-    background: cornflowerblue;
+    background: #e62117;
     text-transform: uppercase;
     font-weight: 700;
     color: #fff;
     border-radius: 5px; 
-}
-.button-order a:hover {
-    background-image: url(icons/card.png);
-    transition: all .3s ease 0s;
 }
 .button-order a {
     color: #fff;
