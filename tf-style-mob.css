@@ -63,7 +63,9 @@
 }
 .banner-text img {
     margin: 45px 15px 0 0;
-    width: auto;
+    max-width: 600px;
+    width: 100%;
+    height: auto;
 }
 .about-book {
     margin: 0 24px;
