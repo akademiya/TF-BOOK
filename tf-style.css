@@ -45,6 +45,26 @@
 }
 
 
+.context {
+    max-width: 1280px;
+    margin: 0 auto;
+}
 .banner-text {
     display: flex;
+}
+.banner-text img {
+    margin: 45px 60px;
+    width: 600px;
+}
+.about-book {
+    margin-top: 15px;
+}
+.button-order {
+    float: right;
+    padding: 15px;
+    background: cornflowerblue;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 5px;
 }
