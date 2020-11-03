@@ -59,6 +59,7 @@
 }
 .banner-text {
     display: flex;
+    margin-bottom: 48px;
 }
 .banner-text img {
     margin: 45px 60px 0 0;
@@ -69,8 +70,8 @@
 }
 .button-order {
     float: right;
-    padding: 15px;
-    margin: 50px 0;
+    padding: 15px 45px;
+    margin-top: 55px;
     background: cornflowerblue;
     text-transform: uppercase;
     font-weight: 700;
@@ -78,7 +79,7 @@
     border-radius: 5px; 
 }
 .button-order a:hover {
-    color: #FCB152;
+    background-image: url(icons/card.png);
     transition: all .3s ease 0s;
 }
 .button-order a {
