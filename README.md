@@ -14,7 +14,7 @@
                 <div class="empty">&nbsp;</div>
                 <div class="soc">
                     <a class="fb" href="https://www.facebook.com/FatherTrueLife" target="_blank"></a>
-                    <a class="ins" target="_blank"></a>
+                    <a class="ins" href="https://www.instagram.com/tf.book/" target="_blank"></a>
                 </div>                     
             </div>
         </header>
