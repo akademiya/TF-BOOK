@@ -33,18 +33,23 @@
 }
 .fb {
     display: block;
-    width: 32px;
-    height: 32px;
-    background: url(icons/ic-42.png) -4px -7px no-repeat;
+    width: 45px;
+    height: 45px;
+    background: url(icons/ic-bl-42.png) 2px 0 no-repeat;
 }
 .fb:hover {
     transition: all .3s ease 0s;
+    background: url(icons/ic-42.png) 2px 0 no-repeat;
 }
 .ins {
     display: block;
-    width: 32px;
-    height: 32px;
-    background: url(icons/ic-42.png) -85px -8px no-repeat;
+    width: 45px;
+    height: 45px;
+    background: url(icons/ic-bl-42.png) -40px 0 no-repeat;
+}
+.ins:hover {
+    transition: all .3s ease 0s;
+    background: url(icons/ic-42.png) -40px 0 no-repeat;
 }
 
 
