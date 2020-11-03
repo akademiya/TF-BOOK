@@ -32,6 +32,7 @@ a:hover {text-decoration: none;}
     padding-left: unset !important;
 }
 .markdown-body h1 {
-    padding: 0 45px;
+    max-width: 1280px;
+    margin: 0 auto;
     border-bottom: none;
 }
