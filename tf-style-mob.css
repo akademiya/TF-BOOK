@@ -1,3 +1,85 @@
 @media screen and (max-width: 599px) {
+.header {
+    padding: 20px 24px;
+    background: #EAEAEA;
+}
+.menu {
+    max-width: 600px;
+    display: flex;
+    margin: 0 auto;
+}
+.empty {
+    width: 100%;
+}
+.email {
+    position: absolute;
+    font-size: 24px;
+    font-weight: 700;
+    transition: all .3s ease 0s;
+}
+.email:hover {
+    color: #FCB152;
+    transition: all .3s ease 0s;
+}
+.soc {
+    float: right;
+    display: flex;
+}
+.soc a {
+    margin: 0 10px;
+}
+.soc a:hover {
+    transition: all .3s ease 0s;
+}
+.fb {
+    display: block;
+    width: 45px;
+    height: 45px;
+    background: url(icons/ic-bl-42.png) 2px 0 no-repeat;
+}
+.fb:hover {
+    transition: all .3s ease 0s;
+    background: url(icons/ic-42.png) 2px 0 no-repeat;
+}
+.ins {
+    display: block;
+    width: 45px;
+    height: 45px;
+    background: url(icons/ic-bl-42.png) -40px 0 no-repeat;
+}
+.ins:hover {
+    transition: all .3s ease 0s;
+    background: url(icons/ic-42.png) -40px 0 no-repeat;
+}
 
+
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+.banner-text {
+    display: block;
+    margin-bottom: 28px;
+}
+.banner-text img {
+    margin: 45px 15px 0 0;
+    width: auto;
+}
+.about-book {
+    margin: 0 24px;
+}
+.button-order {
+    float: right;
+    padding: 15px 45px;
+    margin-top: 55px;
+    background: #e62117;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 5px; 
+}
+.button-order a {
+    color: #fff;
+    transition: all .3s ease 0s;
+}
 }
