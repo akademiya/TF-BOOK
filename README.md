@@ -3,6 +3,7 @@
         <meta charset="UTF-8">
         <link rel="stylesheet" href="global-style.css">
         <link rel="stylesheet" href="tf-style.css">
+        <link rel="stylesheet" href="tf-style-mob.css">
         <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat&display=swap" rel="stylesheet">
         <link rel="icon" type="image/png" href="icons/owl.png"/>
     </head>
