@@ -36,3 +36,6 @@ a:hover {text-decoration: none;}
     margin: 0 auto;
     border-bottom: none;
 }
+.anchorjs-link {
+    display: none;
+}
