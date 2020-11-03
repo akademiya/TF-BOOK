@@ -35,7 +35,7 @@
     display: block;
     width: 32px;
     height: 32px;
-    background: url(icons/ic.png) -4px -7px no-repeat;
+    background: url(icons/ic-42.png) -4px -7px no-repeat;
 }
 .fb:hover {
     transition: all .3s ease 0s;
@@ -44,7 +44,7 @@
     display: block;
     width: 32px;
     height: 32px;
-    background: url(icons/ic.png) -85px -8px no-repeat;
+    background: url(icons/ic-42.png) -85px -8px no-repeat;
 }
 
 
