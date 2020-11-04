@@ -66,6 +66,9 @@
     width: 100%;
     height: auto;
 }
+.banner-text img .price {
+    position: absolute;
+}
 .about-book {
     margin-top: 15px;
 }
