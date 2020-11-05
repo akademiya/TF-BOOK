@@ -20,7 +20,7 @@
         </header>
         <section class="content">
             <div class="banner-text">
-                <img src="img/tf-b-pr.jpg">
+                <img src="img/tf-b-pr.png">
                 <!--<img class="price" src="icons/pr.png">-->
                 <div class="about-book">
                     <h2 class="custom" id="gs">Автобиография "Человек планеты, любящий мир"</h2>
